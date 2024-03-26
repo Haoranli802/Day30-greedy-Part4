@@ -6,5 +6,6 @@
 
 ● 406.根据身高重建队列 
 
+先排序，然后用list.add(index， ) function把people放入
 
 ● 452. 用最少数量的箭引爆气球 
